@@ -1,0 +1,1 @@
+<?php get_header(); ?><main class='section container'><h1>Hello World</h1></main><?php get_footer(); ?>
