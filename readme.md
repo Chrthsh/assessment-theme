@@ -17,6 +17,11 @@ This repository contains my custom WordPress theme created for the technical ass
 
 ## Notes
 
-* Homepage has been implemented based on the provided design
-* Responsive behavior is partially implemented and requires further refinement
-* Minor visual differences may remain
+* This submission focuses on the homepage implementation based on the provided design.
+* Inner pages and additional templates have not been implemented as they were outside the scope of the completed work.
+* Responsive behavior is partially implemented and may require additional refinement for smaller screen sizes.
+* Minor spacing and visual differences may remain compared to the original design.
+
+## ACF Configuration
+
+ACF field group exports are included in the acf-json directory for easier import and setup.
